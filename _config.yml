@@ -4,8 +4,8 @@
 
 # Site
 title: Trung Cùi Bắp
-subtitle: Be brave. Take ricks. Nothing can substitute experience
-description:
+subtitle: Mình là một DEV. Trình thì cùi bắp nhưng lại thích viết gì đó và chém gió. :)
+description: Chúng bạn hay gọi là Đen. :))
 keywords:
 author: Trung
 language: vi
@@ -55,14 +55,14 @@ index_generator:
   
 # Category & Tag
 default_category: uncategorized
-category_map:
+category_map: 
 tag_map:
 
 # Date / Time format
 ## Hexo uses Moment.js to parse and display date
 ## You can customize the date format as defined in
 ## http://momentjs.com/docs/#/displaying/format/
-date_format: YYYY-MM-DD
+date_format: DD-MM-YYYY
 time_format: HH:mm:ss
 
 # Pagination
@@ -74,6 +74,7 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: aria
+plugin: hexo-admin
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
