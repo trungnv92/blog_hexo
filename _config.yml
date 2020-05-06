@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Trung Cùi Bắp
-subtitle: Mình là một DEV. Trình thì cùi bắp nhưng lại thích viết gì đó và chém gió. :)
-description: Chúng bạn hay gọi là Đen. :))
-keywords:
-author: Trung
-language: vi
+title: Trung'Blog
+subtitle: Học cách hiểu trước khi học cách làm
+description: Chia sẻ vài thứ về chuyện nghề, chuyện đọc và chuyện đi. 
+keywords: Black
+author: Nguyễn Văn Trung
+language: en
 timezone: Asia/Jakarta
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://trungcuibap.github.io
+url: https://nguyenvantrung.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -54,7 +54,7 @@ index_generator:
   order_by: -date
   
 # Category & Tag
-default_category: uncategorized
+default_category: coding
 category_map: 
 tag_map:
 
@@ -63,7 +63,7 @@ tag_map:
 ## You can customize the date format as defined in
 ## http://momentjs.com/docs/#/displaying/format/
 date_format: DD-MM-YYYY
-time_format: HH:mm:ss
+time_format: HH:mm
 
 # Pagination
 ## Set per_page to 0 to disable pagination
@@ -80,6 +80,6 @@ plugin: hexo-admin
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/trungcuibap/trungcuibap.github.io.git
+  repo: https://github.com/trungnv92/trungnv92.github.io.git
   branch: master
   message:  #leave this blank

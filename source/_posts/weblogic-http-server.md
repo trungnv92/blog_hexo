@@ -1,9 +1,8 @@
 ---
 title: Managing HTTP Sessions in a Cluster – In memory replication type
-date: 2019-05-08 15:14:43
+date: 2020-04-25 15:14:43
 categories:
-- Oracle
-- Weblogic
+- coding
 tags:
 - Weblogic
 - Oracle

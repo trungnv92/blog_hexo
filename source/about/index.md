@@ -1,6 +1,10 @@
 title: about
-date: 2019-05-07 22:10:34
+date: 2020-04-25 22:10:34
 ---
 ---
-####  Tôi là một đi vơ lớp pơ. Trình thì hơi cùi bắp nhưng lại thích viết gì đó và chém gió. :)
+####  Xin chào mọi người!
+####  Mình là Trung. Màu da hơi đen nên mọi người hay gọi là Black.
+####  Là một Software Engineer. Thích coding, reading and camping.
+####  Blog này để note, chia sẻ về chuyện nghề, chuyện đọc và chuyện đi. 
+####  Xin hết ạ./.
 ---
